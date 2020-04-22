@@ -1,9 +1,35 @@
-p{
+p.sub-title1{
     color: aqua;
 }
 
-h1{
+h1#sub-title2{
     color: red;
-    font-size: 50pt;
-    font-weight: bold;
+    
+    
 }
+span.company{
+    color: lightcoral;
+}
+
+div.box1{
+    height: 100px;
+    width: 100px;
+    background-color:royalblue;
+    text-align: center;
+    border-radius: 50%;
+}
+
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color: mediumturquoise;
+    text-align: center;  
+    border-radius: 50%;
+  }
+  div.box3{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    text-align: center;
+    border-radius: 50%;
+  }
